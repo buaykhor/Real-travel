@@ -1,0 +1,160 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1b5e20;
+  color: white;
+  padding: 15px 30px;}
+
+.container ul{ 
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tit{
+        font-size: 30px;
+        font-weight: bold;
+    }
+.containe ul li{
+    margin-left: 20px;
+}
+.hero{
+    width: 300px;
+    height: 185px;
+    background-color: rgba(169, 169, 169, 0.173);
+    text-align: center;
+    border-radius: 15px;
+    align-items: center;
+    margin-left: 500px;
+    background-image: url(./download\ \(1\).jfif);
+}
+
+
+.hero-text {
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.hero button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  background: #ff990080;
+  color: white;
+  cursor: pointer;
+}
+.about{
+   text-align: center;
+}
+.top{
+    text-align: center;
+}
+.for{
+    height: 400px;
+    width: 400px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+   
+    
+    
+}
+.riv{
+    height: 100px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+}
+.kam{
+    height: 100px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+}
+.topp{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.po{
+    text-align: center;
+}
+.pop{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.gor{
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.181);
+}
+.sar{
+    height: 160px;
+    width: 200px;
+    background-color: rgba(169, 169, 169, 0.181);
+    border-radius: 10px;
+    text-align: center;
+}
+.boa{
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.181);
+}
+.tra{
+    text-align: center;
+    background-color: #ff990040;
+}
+.tra ul{
+    list-style: none;
+    
+}
+.con form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.con input,
+.con textarea {
+  width: 80%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.con button {
+  padding: 10px 20px;
+  background: #1b5e20;
+  color: white;
+  border: none;
+}
+footer {
+  background: #1b5e20;
+  color: white;
+  text-align: center;
+  padding: 10px;}
+  .container a{
+    text-decoration: none;
+    color: white;
+  }
+
+  
+  .booking-form{
+    text-align: center;
+  }
